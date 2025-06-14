@@ -4,6 +4,9 @@ markdown_files/
 __pycache__/
 venv/
 .venv/
+*.db-journal
+*.log
+*.tmp
 
 # Ignore files
 .env
